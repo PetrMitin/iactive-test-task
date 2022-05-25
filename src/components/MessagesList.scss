@@ -1,0 +1,29 @@
+.messages-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.reverse-controls {
+    min-width: 363px;
+    min-height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+button {
+    transition-duration: 0.4s;
+    background-color: grey;
+    height: 40px;
+    width: 100px;
+    color: white;
+    border-radius: 10%;
+}
+  
+button:hover {
+    background-color: lightblue; /* Green */
+}

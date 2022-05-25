@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+.error-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Macondo', cursive;
+    font-size: 30px;
+    color: red;
+    background-color: aliceblue;
+    min-height: 50px;
+    min-width: 60%;
+}   

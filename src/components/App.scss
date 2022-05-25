@@ -1,0 +1,26 @@
+html, body, #root, .App {
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+}
+
+.App {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: -0.035em;
+  color: #333333;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Lato';
+}
